@@ -25,5 +25,4 @@
 <li><a href="https://www.tecmundo.com.br/melhores-ofertas/33085-black-friday-brasileira-onde-aproveitar-.htm">Techtudo</a></li>
 <li><a href="https://www.tecmundo.com.br/melhores-ofertas/33085-black-friday-brasileira-onde-aproveitar-.htm">Techtudo</a></li>
 </ul>
-teste
-<meta name="google-site-verification" content="nfuKEAPxbD87VYrC8lmNe4CIrjmkK4gOmgkHsp7oTLw" />
+
